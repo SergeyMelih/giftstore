@@ -1,0 +1,29 @@
+/* Шрифт GILROY ↓ */
+
+@font-face {
+    font-family: 'Gilroy-ExtraBold';
+    src: url(../fonts/gilroy/Gilroy-ExtraBold.otf);
+}
+@font-face {
+    font-family: 'Gilroy-Light';
+    src: url(../fonts/gilroy/Gilroy-Light.otf);
+}
+
+/* Шрифт ROBOTO  ↓ */
+
+@font-face {
+    font-family: 'Roboto-Bold';
+    src: url(../fonts/roboto/Roboto-Bold.ttf);
+}
+@font-face {
+    font-family: 'Roboto-Italic';
+    src: url(../fonts/roboto/Roboto-Italic.ttf);
+}
+@font-face {
+    font-family: 'Roboto-Medium';
+    src: url(../fonts/roboto/Roboto-Medium.ttf);
+}
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url(../fonts/roboto/Roboto-Regular.ttf);
+}
