@@ -1,0 +1,6 @@
+.header__column-links-item {
+    padding-left: 30px;
+}
+.header__column-links-item:first-child {
+    padding-left: 0;
+}

@@ -1,0 +1,4 @@
+.header__column-links {
+    display: flex;
+    list-style-type: none;
+}
